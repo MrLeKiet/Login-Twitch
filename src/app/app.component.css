@@ -1,0 +1,73 @@
+* {
+    box-sizing: border-box;
+    font-family: Helvetica;
+}
+
+.html{
+    width: 100%;
+    height: 100%;
+    background-color: #000;
+}
+
+.app {
+    max-width: 500px;
+    margin: 2em auto;
+    background-color: #18181b;
+    padding: 1em;
+    border-radius: 10px;
+}
+
+h1 {
+    font-size: 1.2em;
+    color: white;
+    text-align: center;
+}
+
+.option {
+    padding: 0.3em;
+}
+
+.option a {
+    color: #A291C4;
+    text-decoration: none;
+    margin-right: 1em;
+}
+
+.form {
+    color:#ffff;
+    padding: 0.5em;
+}
+
+.form label {
+    display: block;
+    margin-top: 0.5em;
+}
+
+.form input {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border-color: #ffff;
+    background-color: #18181b;
+}
+
+.btn {
+    margin: 1em 0;
+    background-color: #53535F61;
+    color: #ADADB8;
+    text-align: center;
+    display: block;
+    padding: 0.5em 0;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.help {
+    padding: 0.5em 0;
+    color:#BF94FF;
+}
+
+.option {
+    border-bottom: 2px solid #A291C4;
+    margin-bottom: 1em;
+}
